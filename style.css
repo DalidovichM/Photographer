@@ -1,0 +1,21 @@
+body{
+    background-color: #f1f6f7;
+}
+#container{
+    display: flex;
+    justify-content: center;
+}
+#pictures{
+    width:900px; 
+}
+.btn{
+    background-color:transparent;
+    border: none;
+    color: #232323;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    font-size: 60px;
+}
